@@ -4,7 +4,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/hoangkhacphuc">
-      <img width="200" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/63985216?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" style="border-radius: 50%;">
+      <img width="200" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/63985216?v=4&h=201&w=201&fit=cover&mask=circle&maxage=7d" style="border-radius: 50%;">
     </a>
     <summary><h3 style="display: inline-block">Hi 👋, mình là <a href="https://www.facebook.com/hoangkhacphuc.dev">Phúc</a> nè!</h3></summary>
   </ul>
